@@ -1,4 +1,4 @@
-# genesis
+# Genesis
 Codes for maze solving 2-DOF arm 
 
 This project involves a 2-DOF arm tracing the solution of a given maze.
